@@ -1,0 +1,23 @@
+section.mobile
+  .headline-share
+    h1
+  .mobile-content
+    .photo > img
+    .desc
+      .desc-detail
+        h1
+        p
+        .style-guide
+          .color > b, img
+          .font > b, img
+        p.style-summary > q  
+      .desc-info
+        .info-item > b, span        
+        .info-item > b, span        
+        .info-item > b, span        
+        .info-item > b, span        
+        .info-item > b, span        
+        .info-item > b, span        
+        .info-item > b, span       
+      .mobile-project-button
+        a * 5   
